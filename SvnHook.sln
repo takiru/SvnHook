@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pre-commit", "SvnHook\pre-commit.csproj", "{0D2E2FEF-7AFB-4825-8394-56B316D0AEB0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pre-commit_NiigataSvn", "SvnHook\pre-commit_NiigataSvn.csproj", "{0D2E2FEF-7AFB-4825-8394-56B316D0AEB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
