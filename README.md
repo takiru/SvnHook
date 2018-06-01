@@ -9,6 +9,8 @@
 # tags
 1. 以下形式のみタグ作成を認める。
     - /repository/tags/v1.0/20180403001_タグ名
+    - /repository/tags/v1.0/prod|dev/20180403001_タグ名
     - /repository/プロジェクト名/tags/v1.0/20180403001_タグ名
+    - /repository/プロジェクト名/tags/v1.0/prod|dev/20180403001_タグ名
 
 2. tags配下は一切変更不可とする。
